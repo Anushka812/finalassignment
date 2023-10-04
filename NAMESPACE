@@ -2,7 +2,9 @@
 
 export(pcabrca)
 export(readdata)
-import("ggfortify,stringr,")
-import("readr,dplyr")
-import("skimr,knitr,tidyverse,caret,corrr,corrplot,e1071,ggplot2,")
+import(caret)
+import(corrplot)
+import(dplyr)
+import(ggfortify)
+import(ggplot2)
 import(tibble)

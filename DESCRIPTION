@@ -12,4 +12,9 @@ LazyData: true
 Imports: 
     caret,
     corrplot,
+    dplyr,
+    ggfortify,
+    ggplot2,
     tibble
+Depends: 
+    R (>= 2.10)
