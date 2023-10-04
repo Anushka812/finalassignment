@@ -10,6 +10,6 @@
 #' @return data frame
 
 readdata <- function() {
-  df <- as.data.frame(brcawi)
+  df <- data(brcawi)
   return(df)
 }
