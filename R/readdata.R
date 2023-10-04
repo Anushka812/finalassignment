@@ -10,6 +10,6 @@
 #' @return data frame
 
 readdata <- function() {
-  df <- data(brcawi)
+  df <- data("~/data-raw/brcawi.R")
   return(df)
 }
