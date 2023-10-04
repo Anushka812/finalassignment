@@ -1,0 +1,15 @@
+Package: pcabrca
+Title: PCA for Wisconsin BRCA data
+Version: 0.0.0.9000
+Author: Anushka Jain
+Maintainer: Anushka Jain <jaina14@vcu.edu>
+Description: This package will input breast cancer data from wisconsin as taken from Kaggle. It will then perform Principal component analysis. 
+License: `None
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+LazyData: true
+Imports: 
+    caret,
+    corrplot,
+    tibble
